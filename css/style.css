@@ -79,7 +79,7 @@ nav {
 .card-weather {
     display: flex;
     justify-content: space-between;
-    width: 60%;
+    width: 80%;
 }
 
 .high {
